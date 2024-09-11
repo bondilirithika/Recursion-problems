@@ -16,3 +16,6 @@ import java.util.Scanner;
     print_n_1(n-1);
   }
 }
+
+TIME COMPLEXITY:the recursive function runs for n+1 times->O(n)
+SPACE COMPLEXITY:due to recursive stack,it goes to the max depth of n->O(n)
