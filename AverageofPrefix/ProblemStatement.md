@@ -16,4 +16,10 @@ Input: arr[] = [12, 2]
 
 Output: [12, 7] 
 
+**Constraints:**
+
+1 ≤ arr.size ≤ 10^5
+
+1 ≤ arr[i] ≤ 10^6
+
 [**Question Link**](https://www.geeksforgeeks.org/problems/average4856/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
