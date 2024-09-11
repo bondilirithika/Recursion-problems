@@ -17,5 +17,5 @@ import java.util.Scanner;
   }
 }
 
-TIME COMPLEXITY:the recursive function runs for n+1 times->O(n)
-SPACE COMPLEXITY:due to recursive stack,it goes to the max depth of n->O(n)
+/*TIME COMPLEXITY:the recursive function runs for n+1 times->O(n)
+SPACE COMPLEXITY:due to recursive stack,it goes to the max depth of n->O(n)*/
