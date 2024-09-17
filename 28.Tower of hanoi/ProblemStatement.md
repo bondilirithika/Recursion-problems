@@ -47,7 +47,7 @@ move disk 1 from rod 1 to rod 3
 **Explanation:** For N=3 , steps will be as follows in the example and total 7 steps will be taken.
 # Expected complexity
 
-Expected Time Complexity: O(2n).
+Expected Time Complexity: O(2^n).
 
 Expected Auxiliary Space: O(n).
 
