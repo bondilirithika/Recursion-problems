@@ -1,0 +1,6 @@
+# 1.Employee Scheduling System:
+Imagine you are developing a scheduling system for employees where each employee must work exactly one shift in a day. Each shift is constrained by factors like skill sets and availability, similar to a 9x9 grid where no skill set (digit) can repeat in the same row, column, or sub-grid. How would you design an algorithm that ensures no shift is repeated, and each employee works a valid shift?
+# 2. Resource Allocation in a Network:
+In a network resource allocation problem, there are 9 types of resources that must be allocated to 9 nodes such that no resource type repeats within a node or conflicts with adjacent nodes, similar to Sudoku's grid constraints. How would you go about implementing a solution to allocate resources efficiently while satisfying all constraints?
+#  3.Medicine Distribution in a Pharmacy:
+Consider a pharmacy where you must distribute 9 different types of medicines to 9 shelves. Each medicine should appear only once on each shelf, and no medicine can be repeated in any row or column of shelves, or within smaller sub-sections of the storage area. How would you design a solution to ensure that each medicine is properly placed according to these constraints, similar to how a Sudoku grid functions?"
